@@ -8,7 +8,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+List any resources used here, or simply put `N/A` if not applicable.  
 Reference to get a basic idea of how to create add/delete buttons:  
 Just an article from geeks for geeks explaining the basic idea to implement:  
 https://www.geeksforgeeks.org/how-to-dynamically-add-elements-to-a-listview-in-android/?utm_source=chatgpt.com 
